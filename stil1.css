@@ -1,0 +1,10 @@
+button{
+    height: 80px;
+    width: 75px;
+    
+    border-radius: 50%;
+}
+#main:hover button{
+    background:linear-gradient(black,red,grey);
+
+}
